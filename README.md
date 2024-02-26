@@ -1,4 +1,4 @@
-## Simple Web Application developed in Flask with Colorful background 
+## app-web-delayed
 
 * name: app-web-delayed
 * port: 9000
