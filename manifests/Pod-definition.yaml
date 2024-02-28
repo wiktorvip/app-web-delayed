@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: app-web-delayed
   labels:
-    app: aapp-web-delayed
+    app: app-web-delayed
 spec:
   containers:
   - name: app-web-delayed

@@ -7,7 +7,7 @@ import time
 app = Flask(__name__)
 
 # Get start delay from Environment variable
-DELAY_FROM_ENV = os.environ.get('APP_START_DELAY') or 0
+DELAY_FROM_ENV = os.environ.get('APP_START_DELAY') or 60
 FROZEN = False
 
 
